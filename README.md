@@ -5,7 +5,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/marcinknap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knapmarcin" height="30" width="40" /></a>
 <a href="https://instagram.com/94marcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="94marcin" height="30" width="40" /></a>
-<a href="mailto:knapmarcin@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="94marcin" height="30" width="40" /></a>
+<a href="mailto:knapmarcin@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="94marcin" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/16405036/knmarcin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="knmarcin" height="30" width="40" /></a> <a href="https://www.reddit.com/user/__marcin" target="blank"><img align="center" src="https://www.vectorico.com/wp-content/uploads/2018/08/Reddit-logo-300x300.png" alt="knmarcin" height="30" width="30" /></a>
+  
+  
 </p>
 
 <h3 align="center">My tools:</h3>
